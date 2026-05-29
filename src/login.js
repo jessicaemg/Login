@@ -33,14 +33,6 @@ const usuarios = [
         email: "marcos@site.com",
         senha: "xyz", 
         expirado: true 
-    },
-    {
-        id: 4, 
-        nome: "Jessica", 
-        email: "jessica@site.com",
-        senha: "dushdush", 
-        expirado:false 
-
     }
 ];
 
